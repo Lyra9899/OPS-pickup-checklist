@@ -1,4 +1,3 @@
-# OPS-pickup-checklist
 <!DOCTYPE html>
 <html lang="en">
 <head>
